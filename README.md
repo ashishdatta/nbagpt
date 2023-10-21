@@ -1,14 +1,16 @@
 # NBAGPT
 
-A fun little project to talk to NBA data found on Kaggle
+Talk got NBA data found on Kaggle
 
 ## requirements
 
-`poetry`
-`streamlit`
-`pandasai`
-`pandas`
-`dotenv`
+```markdown
+poetry
+streamlit
+pandasai
+pandas
+dotenv
+```
 
 ## Install
 
